@@ -49,7 +49,7 @@ void draw(){
   line(580,570,620,570);  
   line(580,575,620,575);
   line(580,580,620,580);
-  line(580,585,620,585);
+  line(580,585,620,585); 
   //sign
   strokeCap(SQUARE);
   strokeWeight(3);
